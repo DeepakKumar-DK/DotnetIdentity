@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Deepak\\vs projects\\CustomerIdentity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|e:\\deepak\\vs projects\\customeridentity\\customeridentity\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|solutionrelative:customeridentity\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|e:\\deepak\\vs projects\\customeridentity\\customeridentity\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|solutionrelative:customeridentity\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|e:\\deepak\\vs projects\\customeridentity\\customeridentity\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|solutionrelative:customeridentity\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|e:\\deepak\\vs projects\\customeridentity\\customeridentity\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|solutionrelative:customeridentity\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|e:\\deepak\\vs projects\\customeridentity\\customeridentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|solutionrelative:customeridentity\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|e:\\deepak\\vs projects\\customeridentity\\customeridentity\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|solutionrelative:customeridentity\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|e:\\deepak\\vs projects\\customeridentity\\customeridentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|solutionrelative:customeridentity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|e:\\deepak\\vs projects\\customeridentity\\customeridentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|solutionrelative:customeridentity\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|e:\\deepak\\vs projects\\customeridentity\\customeridentity\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|solutionrelative:customeridentity\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|e:\\deepak\\vs projects\\customeridentity\\customeridentity\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|solutionrelative:customeridentity\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|e:\\deepak\\vs projects\\customeridentity\\customeridentity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F54AC5F-5138-4129-8AEF-26899396B976}|CustomerIdentity\\CustomerIdentity.csproj|solutionrelative:customeridentity\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "CustomerIdentity\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "CustomerIdentity\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T11:44:00.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CustomerIdentity\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CustomerIdentity\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T11:28:48.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "CustomerIdentity\\Views\\Account\\Register.cshtml",
+              "ToolTip": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "CustomerIdentity\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T10:38:48.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "CustomerIdentity\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "CustomerIdentity\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T10:28:03.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "CustomerIdentity\\Views\\Account\\Login.cshtml",
+              "ToolTip": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "CustomerIdentity\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-19T08:55:18.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CustomerIdentity\\Controllers\\AccountController.cs",
+              "ToolTip": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CustomerIdentity\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAuwBcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:51:23.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerIdentity\\Program.cs",
+              "ToolTip": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\Program.cs",
+              "RelativeToolTip": "CustomerIdentity\\Program.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:36:37.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "CustomerIdentity\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "CustomerIdentity\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA5wBIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:39:35.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\appsettings.json",
+              "RelativeDocumentMoniker": "CustomerIdentity\\appsettings.json",
+              "ToolTip": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\appsettings.json",
+              "RelativeToolTip": "CustomerIdentity\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-19T11:36:35.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "CustomerIdentity\\ViewModels\\LoginVM.cs",
+              "ToolTip": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "CustomerIdentity\\ViewModels\\LoginVM.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAUwAoAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T08:47:19.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CustomerIdentity\\Data\\AppDbContext.cs",
+              "ToolTip": "E:\\Deepak\\vs projects\\CustomerIdentity\\CustomerIdentity\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CustomerIdentity\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T07:52:47.423Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
